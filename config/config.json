@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "root",
-    "password": "kardon9993",
+    "password": "",
     "database": "ormM2i",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "kardon9933",
+    "password": "",
     "database": "ormM2i",
     "host": "127.0.0.1",
     "dialect": "mysql"
